@@ -55,7 +55,7 @@ To install and set up this project efficiently, follow these steps:
 How to provide feedback for this project.
 
 - If you have used this project and found it useful or interesting, please consider leaving feedback for me. Your feedback will help me improve my project and motivate me to create more projects like this.
-- You can provide feedback by filling out [this feedback form](https://forms.gle/ze9sZecVWGghoW3D7).
-- You can also provide feedback by opening an issue or a pull request on the [GitHub repository](https://github.com/Mowlidharan/Phonepe-Pulse-Data-Visualization-and-Exploration), where you can report any bugs, errors, or suggestions for improvement.
+- You can provide feedback by filling out [this feedback form](https://forms.gle/KKmc5wJXxT3TB2QWA).
+- You can also provide feedback by opening an issue or a pull request on the [GitHub repository](https://github.com/Mowlidharan/Machine_Learning_projects), where you can report any bugs, errors, or suggestions for improvement.
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
